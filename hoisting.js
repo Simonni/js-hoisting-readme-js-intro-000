@@ -6,9 +6,6 @@ function callMe() {
   var lyric = "maybe";
   return lyric;
 }
-callMe();
-console.log(lyric);
-
 
 function crazy() {
   // fix the code in here:
@@ -24,7 +21,6 @@ function sayMyName() {
   // fix the code in here:
   var name = "Cricky";
 console.log(name);
-  sayMyName();
 
   function sayMy() {
     var name = "Kristin";
